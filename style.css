@@ -1,0 +1,40 @@
+.navigation{
+    text-align: center;
+    color: white;
+    
+}
+a:hover{
+
+color: green;
+cursor: pointer;
+
+}
+.Receipe{
+    display: inline-block;
+    border: 2px;
+    border-style: solid;
+    border-color: red;
+    width: 220px;
+    margin-top: 20px;
+    text-align: center;
+    color: gray;
+}
+.menu{
+    background-color: white;
+
+    margin: 20px;
+}
+p:hover{
+    cursor: pointer;
+    color: green;
+}
+.contact{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+button{
+    width: 50%;
+    height: 30px;
+    background-color: yellow;
+}
